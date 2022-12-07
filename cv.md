@@ -21,5 +21,5 @@
             print(sum)
 6. Имеется опыт работы только на заводе
 7. ПТО
-8. Уровень Englisha на lvl CSGO
+8. Уровень 'Englisha' на lvl CSGO
 
