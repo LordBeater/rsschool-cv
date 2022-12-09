@@ -1,4 +1,5 @@
 #  The very best CV
+![Astapovich Maksim](https://avatars.githubusercontent.com/u/119882380?s=192&v=4)
 1. Astapovich Maksim
 2. My link [vk](vk.com/this_is_schaman) - don't click
 3. Все мое познание в английском заканчивается выше) :D. Ничего не умею кроме как 'працаваць' на хлебушек.
